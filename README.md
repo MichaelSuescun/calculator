@@ -1,0 +1,1 @@
+![Animación de calculadora](public/img/AnimationCalculator.gif)
